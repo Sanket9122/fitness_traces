@@ -44,7 +44,7 @@ And go to the [browser](http://localhost:3000) to view the application!
 * [bcrypt-nodejs](https://www.npmjs.com/package/bcrypt-nodejs) - Password Hashing
 * [Charts.js](https://www.chartjs.org/) - Charts
 * [Material-UI](https://http://material-ui.com/) - Styling
-* [Heroku](https://http://heroku.com/) - Hosting
+
 
 
 ## Authors
