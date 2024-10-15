@@ -49,11 +49,7 @@ And go to the [browser](http://localhost:3000) to view the application!
 
 ## Authors
 
-* **Lucas Jensen** - *Frontend and Design* - [Gitub](https://github.com/lucasjensen56)
-* **Josh Hedstrom** - *Frontend and Authentication* - [Gitub](https://github.com/joshhedstrom)
-* **Lucas Werner** - *Backend* - [Gitub](https://github.com/lwerner27)
-* **Jason Robinson** - *Backend and Authentication* - [Gitub](https://github.com/jasonrobnson)
-* **Ben Tommerdahl** - *Routes* - [Gitub](https://github.com/btommer2017)
+* **Lucas Jensen** - *Development* - [Gitub](https://github.com/Sanket9122)
 
 ## License
 
