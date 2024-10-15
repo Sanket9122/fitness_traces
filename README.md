@@ -49,7 +49,7 @@ And go to the [browser](http://localhost:3000) to view the application!
 
 ## Authors
 
-* **Lucas Jensen** - *Development* - [Gitub](https://github.com/Sanket9122)
+* **Sanket Priyadarshi** - *Development* - [Gitub](https://github.com/Sanket9122)
 
 ## License
 
