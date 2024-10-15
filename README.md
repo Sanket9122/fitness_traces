@@ -51,6 +51,4 @@ And go to the [browser](http://localhost:3000) to view the application!
 
 * **Sanket Priyadarshi** - *Development* - [Gitub](https://github.com/Sanket9122)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
